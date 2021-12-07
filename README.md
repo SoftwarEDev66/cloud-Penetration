@@ -19,12 +19,12 @@ A Python Based Tool Created To Bypass Cloudfare
  
  # Installation of Beautifulsoup,cfscrape
  
-pip install cfscrape
+pip install cfscrape,
     pip install BeautifulSoup
 
 **USAGE:**
 
-    python cloudget.py [-c] [-o] [-l] [-d] [-p <[proxy server]>] -u <[url behind cloudflare proxy]>
+    python cloud-Penetration.py [-c] [-o] [-l] [-d] [-p <[proxy server]>] -u <[url behind cloudflare proxy]>
 
 **MUST USE COMPLETE URL STARTING WITH http://**
 
